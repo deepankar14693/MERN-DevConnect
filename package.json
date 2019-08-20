@@ -4,8 +4,7 @@
   "description": "social networking demo",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "server": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "author": "Deepankar",
   "license": "MIT",
